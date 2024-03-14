@@ -111,7 +111,7 @@ i.e. `http://localhost:8080`
 ### To run the app locally, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the Xcode project file (`Sportsbook.xcodeproj`).
+2. Open the Xcode project file (`SportsBook.xcodeproj`).
 3. Build and run the project on a simulator or physical device.
 
 ## Future Improvements
