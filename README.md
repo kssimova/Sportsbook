@@ -1,5 +1,8 @@
 # Sportsbook App
 
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 11 16 40](https://github.com/kssimova/Sportsbook/assets/24355807/27f9e336-0465-4c37-bb93-bde505fde867)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 11 16 47](https://github.com/kssimova/Sportsbook/assets/24355807/9133ee1d-732a-4f54-bad9-5bb3d2108aed)
+
 ## Introduction
 
 The Sportsbook app is designed to provide users with access to a catalog of sports and events they can bet on. It allows users to browse available sports, view upcoming events for a selected sport, and place bets on various outcomes.
