@@ -1,7 +1,7 @@
 # Sportsbook App
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 11 16 40](https://github.com/kssimova/Sportsbook/assets/24355807/27f9e336-0465-4c37-bb93-bde505fde867)
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 11 16 47](https://github.com/kssimova/Sportsbook/assets/24355807/9133ee1d-732a-4f54-bad9-5bb3d2108aed)
+<img src="https://github.com/kssimova/Sportsbook/assets/24355807/27f9e336-0465-4c37-bb93-bde505fde867" width="393" height="852">
+<img src="https://github.com/kssimova/Sportsbook/assets/24355807/9133ee1d-732a-4f54-bad9-5bb3d2108aed" width="393" height="852">
 
 ## Introduction
 
